@@ -8,7 +8,7 @@ import EducationPage from "@/pages/Education";
 import Contact from "@/pages/Contact";
 
 import CertificationsPage from "@/pages/certificationPage";
-import Galerie from "@/pages/galerie";
+import Galerie from "@/pages/Galerie";
 
 export const router = createBrowserRouter([
   {

@@ -68,5 +68,16 @@ export const certifications: Certification[] = [
   image: "/certificats/cert5.jpg",
   imageAlt: "SoloLearn Coding for Data Certificate",
   status: "active"
+},
+{
+  title: "Python",
+  issuer: "Kaggle",
+  issueDate: "2025-1", 
+  credentialUrl: "https://www.kaggle.com/learn/certification/mohamedrihal/python",
+  skills: ["Python", "Data Science", "Kaggle Environment", "Data Analysis", "Programming Fundamentals"],
+  tags: ["Python", "Data Science", "Kaggle", "Programming"],
+  image: "/certificats/Mohamed RIHAL - Python.png", 
+  imageAlt: "Kaggle Python Certificate",
+  status: "active"
 }
 ];
